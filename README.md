@@ -2,9 +2,9 @@
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**车辆维修1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**车辆维修**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,45 +35,37 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952242.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208030952242.jpg)
 
 ### 4.2管理员 模块
 
-![管理员-查看车辆信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952268.jpg)
+![管理员-查看车辆信息](https://www.codeshop.fun/Typora-Images/202208030952268.jpg)
 
-![管理员-查看故障信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952220.jpg)
+![管理员-查看故障信息](https://www.codeshop.fun/Typora-Images/202208030952220.jpg)
 
-![管理员-查看维修订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952466.jpg)
+![管理员-查看维修订单](https://www.codeshop.fun/Typora-Images/202208030952466.jpg)
 
-![管理员-添加维修订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952463.jpg)
+![管理员-添加维修订单](https://www.codeshop.fun/Typora-Images/202208030952463.jpg)
 
-![管理员-访客管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952882.jpg)
+![管理员-访客管理](https://www.codeshop.fun/Typora-Images/202208030952882.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952391.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208030952391.jpg)
 
-![管理员-零件购买](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030952004.jpg)
+![管理员-零件购买](https://www.codeshop.fun/Typora-Images/202208030952004.jpg)
 
-![管理员-零件使用](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030953346.jpg)
+![管理员-零件使用](https://www.codeshop.fun/Typora-Images/202208030953346.jpg)
 
 ### 4.3用户 模块
 
-![管理员-零件使用](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030953702.jpg)
+![管理员-零件使用](https://www.codeshop.fun/Typora-Images/202208030953702.jpg)
 
-![用户-查看车辆信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030953378.jpg)
+![用户-查看车辆信息](https://www.codeshop.fun/Typora-Images/202208030953378.jpg)
 
-![用户-添加车辆信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030953261.jpg)
+![用户-添加车辆信息](https://www.codeshop.fun/Typora-Images/202208030953261.jpg)
 
-![用户-维修信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030953413.jpg)
+![用户-维修信息](https://www.codeshop.fun/Typora-Images/202208030953413.jpg)
 
 ### 4.4 文档部分截图
 
-![文档部分截图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208030953545.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**车辆维修1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![文档部分截图](https://www.codeshop.fun/Typora-Images/202208030953545.jpg)
 
